@@ -1,5 +1,4 @@
 body {
-    /* Imagem de fundo e seu posicionamento */
     background-image: url('va11.jpg');
     background-size: cover;
     background-position: center center;
@@ -7,7 +6,6 @@ body {
 }
 
 .caixa {
-    /* Caixa da parte superior central */
     text-align: center;
     background-color: azure;
     padding: 20px;
@@ -16,17 +14,14 @@ body {
 }
 
 .texto-superior h1 {
-    /* Estilo do título */
     font-size: 24px;
 }
 
 .texto-inferior p {
-    /* Estilo do texto inferior */
     font-size: 20px;
 }
 
 .coluna-esquerda {
-    /* Estiliza a coluna à esquerda */
     width: 400px;
     background-color: azure;
     padding: 20px;
@@ -43,24 +38,20 @@ body {
 }
 
 .coluna-esquerda img {
-    /* Gifs da coluna esquerda */
     max-width: 100%;
 }
 
 .texto-superior-coluna h2, .texto-inferior-coluna h2 {
-    /* Títulos da coluna esquerda */
     font-size: 24px;
     text-align: center;
 }
 
 .texto-superior-coluna p, .texto-inferior-coluna p {
-    /* Texto na coluna esquerda */
     font-size: 20px;
     text-align: center;
 }
 
 .lista-direita {
-    /* Estiliza a lista da direita */
     background-color: transparent;
     padding: 20px;
     width: 200px;
@@ -71,34 +62,28 @@ body {
 }
 
 .lista-direita ul {
-    /* Para remover a formatação da lista */
     list-style-type: none;
     padding: 0;
 }
 
 .lista-direita li {
-    /* Itens da lista */
     margin-bottom: 15px;
 }
 
 .lista-direita li a {
-    /* Links na lista */
     color: azure;
     text-decoration: none;
 }
 
 h2 {
-    /* Estiliza os títulos H2 */
     font-size: 25px;
 }
 
 .proj {
-    /* Estiliza os projetos */
     font-size: 18px;
 }
 
 .contatos {
-    /* Seção de contatos */
     text-align: center;
     margin-top: 350px;
     margin-left: 1000px; 
@@ -106,12 +91,10 @@ h2 {
 }
 
 .icones-contato {
-    /* Ícones de contato */
     margin-top: 20px;
 }
 
 .icones-contato a {
-    /* Links dos ícones de contato */
     font-size: 24px;
     margin: 0 10px;
     color: #ffffff;
